@@ -1,0 +1,36 @@
+.nav-brand *{
+    color: orangered;
+}
+.a.nav-item.nav-link home{
+    color: orangered;
+}
+.fondoNegro{
+    background-color: black;
+    color: white;
+}
+.btn-dark{
+    border-color: #ffffff !important;
+    border-radius: 25px !important;
+}
+input{
+    background-color:#c45765;
+    border-color: #c45765;
+    border-radius: 5px;
+    color:whitesmoke;
+    width: 100%;
+    margin: 10px !important;
+}
+textarea{
+    background-color:#c45765;
+    border-color: #c45765;
+    border-radius: 5px;
+    color:whitesmoke;
+    width: 100%;
+    margin: 10px !important;
+}
+.col{
+    margin-top: 20px;
+}
+.g{
+ color: grey;
+}
